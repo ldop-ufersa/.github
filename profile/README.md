@@ -1,6 +1,7 @@
-![Figure](https://github.com/ldop-ufersa/.github/blob/main/profile/nodp.png)
+![Figure](https://github.com/ldop-ufersa/.github/blob/b33bc2a1146e84e2499a1fb1e91e22751fb4dff2/profile/VF.1.png)
 
 <!--
+
 
 **Here are some ideas to get you started:**
 
